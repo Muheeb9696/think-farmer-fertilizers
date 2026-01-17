@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jalaun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5a491e87058e258b1fee402bf9b856ebab7cd67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jalaun")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jalaun")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
